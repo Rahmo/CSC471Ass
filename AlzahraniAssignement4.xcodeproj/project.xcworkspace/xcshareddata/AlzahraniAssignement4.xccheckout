@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C1F859D5-9355-4BEF-BE2E-6F11F2F3FF99</string>
+	<key>IDESourceControlProjectName</key>
+	<string>AlzahraniAssignement4</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>726E85B18674BEEE676C8DBF22BEE3B563E2793B</key>
+		<string>https://github.com/Rahmo/CSC471Ass</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>AlzahraniAssignement4.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>726E85B18674BEEE676C8DBF22BEE3B563E2793B</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Rahmo/CSC471Ass</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>726E85B18674BEEE676C8DBF22BEE3B563E2793B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>726E85B18674BEEE676C8DBF22BEE3B563E2793B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>AlzahraniAssignement5</string>
+		</dict>
+	</array>
+</dict>
+</plist>
